@@ -45,5 +45,5 @@ public class Constants {
     /**
      * 回调host
      */
-    public static final String CALLBACK_URL_HOST = "192.168.10.223";
+    public static final String CALLBACK_URL_HOST = "http://unipartdingding.vaiwan.com";
 }

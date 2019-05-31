@@ -89,4 +89,26 @@ public class URLConstants {
         static final String REGISTER_CALLBACK = "https://oapi.dingtalk.com/call_back/register_call_back";
 
     }
+
+    /**
+     * 注册回调事件url
+     */
+    public interface TMP_EVENT_RECEIVE{
+
+        /**
+         * 用户
+         *
+         */
+        static final String URL_USER_RECEIVE = "http://dingdingunipart.vaiwan.com";
+
+        /**
+         * 部门
+         */
+        static final String url_dept_receive = "http://depthuxx.vaiwan.com/encenreceie";
+
+        /**
+         * 企业
+         */
+        static final String url_org_receive = "http://orghuxx.vaiwan.com/encenreceie";
+    }
 }
